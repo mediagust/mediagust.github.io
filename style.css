@@ -173,11 +173,11 @@ strong {
     -ms-flex-align: center;
     align-items: center; }
     .pr__header .inner .logo {
-      width: 150px; }
+      width: 275px; }
       .pr__header .inner .logo .brand {
         display: inline-block;
-        width: 300px;
-        height: 102px;
+        width: 100%;
+        height: 50px;
         background-image: url("assets/images/logo.svg");
         background-size: cover;
         background-repeat: no-repeat; }
@@ -211,14 +211,14 @@ strong {
     .pr__header.uk-active .inner {
       height: 90px; }
   .pr__header.pr__dark .inner .logo .brand {
-    background-position-y: -10px; }
+    background-position-y: -9px; }
   .pr__header.pr__dark .inner a,
   .pr__header.pr__dark .inner .lang {
     color: #FFFFFF !important; }
   .pr__header.pr__dark .inner .navbar-tigger > span {
     background-color: #FFFFFF; }
   .pr__header.pr__dark.uk-active {
-    background-color: rgba(0, 0, 0, 0.9); }
+    background-color: rgba(2, 15, 19, 0.92); }
 
 /* Mobile Navbar */
 .pr__mobile__nav {
@@ -1964,9 +1964,9 @@ a.uk-slidenav {
     .pr__header .inner {
       height: 170px; }
       .pr__header .inner .logo {
-        width: 170px; }
+        width: 310px; }
         .pr__header .inner .logo .brand {
-          height: 102px; width: 300px; }
+          height: 56px; width: 100%; }
       .pr__header .inner .navbar {
         display: -webkit-box;
         display: -ms-flexbox;
