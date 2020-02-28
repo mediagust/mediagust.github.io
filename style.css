@@ -2106,7 +2106,7 @@ a.uk-slidenav {
 @media (min-width: 1200px) {
   /* Section: Hero */
   .pr__hero__wrap {
-    background-position: 70%; }
+    background-position: 100%; }
   /* Section: Features Boxes */
   .features-boxes > .item > .inner {
     padding: 60px 40px; }
