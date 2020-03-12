@@ -1,3 +1,4 @@
+/* Media Gust - The Performance Marketing Agency. Visit https://mediagust.com for more info... */
 /* Table of content  
 ---------------------------------------------------
 01. Body
@@ -1264,7 +1265,7 @@ body.single-post .hero-content {
     -o-transition: 400ms cubic-bezier(0.17, 0.67, 0, 1.01);
     transition: 400ms cubic-bezier(0.17, 0.67, 0, 1.01); }
     .widget.widget_nav_menu ul li a:before {
-      content: "\➤";
+      content: "\e91f";
       width: 20px;
       font-family: 'Pixeicons', sans-serif;
       font-size: 14px;
