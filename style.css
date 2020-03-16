@@ -1265,7 +1265,7 @@ body.single-post .hero-content {
     -o-transition: 400ms cubic-bezier(0.17, 0.67, 0, 1.01);
     transition: 400ms cubic-bezier(0.17, 0.67, 0, 1.01); }
     .widget.widget_nav_menu ul li a:before {
-      content: "\e91f";
+      content: "\➤ ";
       width: 20px;
       font-family: 'Pixeicons', sans-serif;
       font-size: 14px;
