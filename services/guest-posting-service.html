@@ -29,6 +29,10 @@
 	<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" />
 	<link rel="stylesheet" type="text/css" href="css/main.css"/>
 	<link rel="stylesheet" type="text/css" href="css/font-style.css" />
+	
+<style>.display-none {
+  display: none;
+}</style>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-142417949-2"></script>
 <script>
@@ -382,18 +386,19 @@
 											<span class="pix_edit_text">Please fill the form bellow and we'll send you the best quote about guest posting and blogger outreach. Guaranteed best price as always.</span>
 										</p>
 										<div class="pix-margin-bottom-30">
-										<form action="https://formspree.io/xbjzrrdy" method="POST">
+										<form id="contact-form">
 												<div class="form-group">
-													<input type="text" name="name" class="form-control" placeholder="Full Name">
+													<input type="text" name="name" id="inputName" class="form-control" placeholder="Full Name">
 												</div>
 												<div class="form-group">
-													<input type="email" name="_replyto" class="form-control" placeholder="Contact Email">
+													<input type="email" name="_replyto" id="inputEmail" class="form-control" placeholder="Contact Email">
 												</div>
 												<div class="form-group">
-													<textarea class="form-control" name="message" rows="4" placeholder="Requirement here..."></textarea>
+													<textarea class="form-control" id="inputMessage" name="message" rows="4" placeholder="Requirement here..."></textarea>
 												</div>
-												<button type="submit" class="btn btn-flat green-bg pix-white btn-lg btn-block"><strong>Send Information</strong></button>
-												<input type="hidden" name="_next" value="https://mediagust.com/services/guest-posting-service.html"/>
+												<button type="submit" value="Send" class="btn btn-flat green-bg pix-white btn-lg btn-block"><strong>Send Information</strong></button>
+											<div class="alert alert-danger center-block submit-fail display-none">Please fill the form...</div>
+											<div class="alert alert-success center-block submit-success display-none">Thanks for your request. We'll contact you shortly!</div></div>
 										</form>
 											<p class="pix-gray"><span class="pix_edit_text">*Don’t Worry! We hate SPAM too!</span></p>
 										</div>
@@ -462,5 +467,6 @@
 	<script src="js/velocity.min.js"></script>
 	<script src="js/velocity.ui.min.js"></script>
 	<script src="js/custom.js"></script>
+	<script src="js/mail.js"></script>
 </body>
 </html>
