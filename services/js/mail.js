@@ -11,7 +11,7 @@ $(document).ready(function() {
       else {
         $.ajax({
           method: 'POST',
-          url: '//formspree.io/xbjzrrdy',
+          url: 'https://formspree.io/xbjzrrdy',
           data: $('#contact-form').serialize(),
           datatype: 'json'
         });
