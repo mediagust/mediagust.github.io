@@ -29,6 +29,9 @@
 	<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" />
 	<link rel="stylesheet" type="text/css" href="css/main.css"/>
 	<link rel="stylesheet" type="text/css" href="css/font-style.css" />
+<style>.display-none {
+  display: none;
+}</style>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-142417949-2"></script>
 <script>
@@ -47,7 +50,7 @@
 				<div class="col-md-12 col-xs-12">
 					<div class="pix-content text-center">
 						<div class="pix-margin-bottom-30">
-							<img src="images/main/logo-big.svg" alt="Crypto Promotion">
+							<a href="https://mediagust.com"><img src="images/main/logo-big.svg" alt="Crypto Promotion"></a>
 						</div>
 						<h1 class="pix-white text-center secondary-font pix-small-width-text">
 							<span class="pix_edit_text"><strong>Press Release Distribution</strong></span>
@@ -511,17 +514,19 @@
 											<span class="pix_edit_text">Please fill the form bellow with requirements and our customer support will  contact you shortly. (Monday to Friday)</span>
 										</p>
 										<div class="pix-margin-bottom-30">
-											<form class="pix-form-style pixfort-form" method="get" action="https://script.google.com/macros/s/AKfycbzauL9AREY0DMlF_dXXlJP7q89Wo4dFovXOlbZy9A/exec">
+											<form id="contact-form" action="https://formspree.io/mpzyaalz" method="POST">
 												<div class="form-group">
-													<input type="text" name="name" class="form-control" placeholder="Full Name">
+													<input type="text" name="name" id="inputName" class="form-control" placeholder="Full Name">
 												</div>
 												<div class="form-group">
-													<input type="email" name="email" class="form-control" placeholder="Contact Email">
+													<input type="email" name="_replyto" id="inputEmail" class="form-control" placeholder="Contact Email">
 												</div>
 												<div class="form-group">
-													<textarea class="form-control" name="message" rows="4" placeholder="Requirement here..."></textarea>
+													<textarea class="form-control" id="inputMessage" name="message" rows="4" placeholder="Requirement here..."></textarea>
 												</div>
-												<button type="submit" value="submit" class="btn btn-flat green-bg pix-white btn-lg btn-block"><strong>Send Information</strong></button>
+												<button type="submit" value="Send" class="btn btn-flat green-bg pix-white btn-lg btn-block"><strong>Send Information</strong></button>
+											<div class="alert alert-danger center-block submit-fail display-none">Please fill all form fields...</div>
+											<div class="alert alert-success center-block submit-success display-none">Thanks for your enquiry. We'll contact you shortly!</div>
 											</form>
 											<p class="pix-gray"><span class="pix_edit_text">*Don’t Worry! We hate SPAM too!</span></p>
 										</div>
@@ -590,5 +595,6 @@
 	<script src="js/velocity.min.js"></script>
 	<script src="js/velocity.ui.min.js"></script>
 	<script src="js/custom.js"></script>
+	<script src="js/mail3.js"></script>
 </body>
 </html>
