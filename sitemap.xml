@@ -4,104 +4,215 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
 <url>
   <loc>https://mediagust.com/</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
   <changefreq>weekly</changefreq>
+  <priority>1.00</priority>
 </url>
 <url>
   <loc>https://mediagust.com/index.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
   <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mediagust.com/performance-audit.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
   <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mediagust.com/digital-strategy.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
   <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mediagust.com/amplify-for-action.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
   <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mediagust.com/conversion-optimization.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
   <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mediagust.com/pay-per-lead.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
   <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mediagust.com/pay-per-sale.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
   <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mediagust.com/pay-per-action.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
   <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mediagust.com/case-study-02.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
   <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mediagust.com/case-study-01.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
   <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mediagust.com/case-study-03.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
   <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mediagust.com/case-study-04.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
   <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mediagust.com/case-study-05.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
   <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mediagust.com/case-study-06.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
   <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mediagust.com/terms-of-use.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
   <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mediagust.com/privacy.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
   <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mediagust.com/cookie-policy.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
   <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mediagust.com/sitemap.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
   <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mediagust.com/services/guest-posting-service.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
   <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://mediagust.com/services/digital-branding-services.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
   <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://mediagust.com/services/ico-marketing-services.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
   <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://mediagust.com/services/press-release-distribution-services.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
   <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://mediagust.com/crypto-promotion-how-to-promote-your-ico-in-2020.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
   <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mediagust.com/15-digital-marketing-trends-of-2020.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mediagust.com/ai-chatbots-and-interactive-content-trends-in-2020.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mediagust.com/digital-advertising-trends-of-2020.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mediagust.com/digital-marketing-what-is-digital-marketing-about.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mediagust.com/inbound-marketing.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mediagust.com/influence-marketing-trends-of-2020.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mediagust.com/seo-trends-of-2020.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mediagust.com/social-media-trends-of-2020.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mediagust.com/strategy-of-digital-marketing-in-year-2020.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mediagust.com/traditional-marketing-and-internet-marketing.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://mediagust.com/services/affiliate.html</loc>
+  <lastmod>2020-06-01T20:03:14+00:00</lastmod>
   <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
 </url>
 </urlset>
